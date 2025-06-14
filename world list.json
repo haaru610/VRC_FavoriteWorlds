@@ -1,21 +1,55 @@
 {
-  "categories": [
-    {
-      "name": "展示系",
-      "worlds": [
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
         {
-          "name": "VR宇宙博物館 コスモリア Cosmoria [EN / JP / KR]",
-          "author": "vsp_vrc",
-          "worldId": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
-          "capacity": 50
+            "Category": "展示系",
+            "Worlds": [
+                {
+                    "ID": "world/wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+                    "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 50,
+                    "Description": "よく行ってた博物館を思い出す",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+                    "Name": "触れる仮想現実展˸リアセンス",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 32,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                ...
+            ]
         },
         {
-          "name": "触れる仮想現実:リアセンス",
-          "author": "ぱんぐえっと",
-          "worldId": "world/wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
-          "capacity": 32
-        }
-      ]
-    }
-  ]
+            "Category": "景観系",
+            "Worlds": [
+                {
+                    "ID": "wrld_70e42e7b-3f36-41f9-88bd-4610402ca805",
+                    "Name": "静寂な世界の中で",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 60,
+                    "Description": "はじまりのばしょ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    },
+                },
+                ...
+             ]
+        },
+        ...
+    ]
 }

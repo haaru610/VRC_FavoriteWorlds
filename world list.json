@@ -1,16 +1,21 @@
-[
-  {
-    "name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
-    "author": "vsp_vrc",
-    "worldId": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
-    "capacity": 50,
-    "category": "展示系"
-  },
-  {
-    "name": "触れる仮想現実展˸リアセンス",
-    "author": "ばんくえっと",
-    "worldId": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
-    "capacity": 32,
-    "category": "展示系"
-  }
- ]
+{
+  "categories": [
+    {
+      "name": "展示系",
+      "worlds": [
+        {
+          "name": "VR宇宙博物館 コスモリア Cosmoria [EN / JP / KR]",
+          "author": "vsp_vrc",
+          "worldId": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+          "capacity": 50
+        },
+        {
+          "name": "触れる仮想現実:リアセンス",
+          "author": "ぱんぐえっと",
+          "worldId": "world/wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+          "capacity": 32
+        }
+      ]
+    }
+  ]
+}

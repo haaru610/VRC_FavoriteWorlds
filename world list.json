@@ -6,7 +6,7 @@
             "Category": "展示系",
             "Worlds": [
                 {
-                    "ID": "world/wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+                    "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
                     "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
                     "RecommendedCapacity": 0,
                     "Capacity": 50,
@@ -28,8 +28,7 @@
                         "PC": true,
                         "Android": false
                     }
-                },
-                ...
+                }
             ]
         },
         {
@@ -45,11 +44,9 @@
                     "Platform": {
                         "PC": true,
                         "Android": true
-                    },
-                },
-                ...
+                    }
+                }
              ]
-        },
-        ...
+        }
     ]
 }

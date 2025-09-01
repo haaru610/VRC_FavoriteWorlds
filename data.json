@@ -10,7 +10,7 @@
                     "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
                     "RecommendedCapacity": 0,
                     "Capacity": 50,
-                    "Description": "よく行ってた博物館を思い出す",
+                    "Description": "",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
@@ -39,7 +39,7 @@
                     "Name": "静寂な世界の中で",
                     "RecommendedCapacity": 0,
                     "Capacity": 60,
-                    "Description": "はじまりのばしょ",
+                    "Description": "",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
@@ -50,3 +50,4 @@
         }
     ]
 }
+

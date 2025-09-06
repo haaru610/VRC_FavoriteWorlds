@@ -47,6 +47,23 @@
                     }
                 }
              ]
+        },
+        {
+            "Category": "交流",
+            "Worlds": [
+                {
+                    "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+                    "Name": "日本語話者向け集会場「FUJIYAMA」JP",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 40,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+             ]
         }
     ]
 }

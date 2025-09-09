@@ -10,7 +10,7 @@
                     "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
                     "RecommendedCapacity": 0,
                     "Capacity": 50,
-                    "Description": "",
+                    "Description": "494.17MB",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
@@ -27,6 +27,30 @@
                     "Platform": {
                         "PC": true,
                         "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
+                    "Name": "Scale Journey",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 16,
+                    "Description": "173.29MB/量子の小ささから宇宙の大きさまでを実際に体験できるワールド。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_3f454b44-6c61-484d-bd5b-0a5abfd5f3f2",
+                    "Name": "フォトグラ携帯ゲーム機展示室",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 32,
+                    "Description": "164.35MB/様々なゲーム機のフォトグラメトリが展示されているワールド。ゲーム機の歴史を解説と共に振り返ることができる。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
                     }
                 }
             ]
@@ -37,6 +61,30 @@
                 {
                     "ID": "wrld_70e42e7b-3f36-41f9-88bd-4610402ca805",
                     "Name": "静寂な世界の中で",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 60,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+                    "Name": "夏宙の休息地 -Summer Starrysky Rest-",
+                    "RecommendedCapacity": 0,
+                    "Capacity": 60,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+                    "Name": "春空の休息地 -BloomingSky Rest-",
                     "RecommendedCapacity": 0,
                     "Capacity": 60,
                     "Description": "",
@@ -67,4 +115,5 @@
         }
     ]
 }
+
 
